@@ -28,3 +28,13 @@
 // } else {
 //     alert("Não é uma string")
 // }
+
+// 5.
+
+// let isBoolean = "true"
+
+// if (typeof isBoolean === "boolean") {
+//     alert("É um booleano")
+// } else {
+//     alert("Não é um booleano")
+// }
